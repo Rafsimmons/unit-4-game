@@ -1,0 +1,54 @@
+.jumbotron {
+    background-color: pink;
+    height: 150px;
+}
+
+/* .container {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+   
+
+
+ /* .contentbackground {
+    height:310px;
+    width: 500px;
+    margin: 50px;
+    border-style: solid;
+    border-width: thin;
+    border-color:black;
+}
+
+.details {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+         */
+
+
+
+.col-lg-6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    height:800px;
+    border-style: solid;
+    border-width: thin;
+    border-color:black;
+    color: black;
+}
+
+.hero {
+    position: static;
+    border: 1px solid blue;
+    width: 300px;
+    height: 150px;
+}
+
+.midoriya {
+    position: absolute;
+    float: right;
+}
+
+img {
+    height: 150px;
+    width: 120px;
+}
