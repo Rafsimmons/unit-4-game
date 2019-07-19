@@ -5,8 +5,9 @@
 
 /* .container {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:white; */
+
 
 
  /* .contentbackground {
@@ -33,7 +34,8 @@
     border-style: solid;
     border-width: thin;
     border-color:black;
-    color: black;
+    color:white;
+    
 }
 
 .hero {
@@ -43,10 +45,10 @@
     height: 150px;
 }
 
-.midoriya {
+/* .midoriya {
     position: absolute;
     float: right;
-}
+} */
 
 img {
     height: 150px;
